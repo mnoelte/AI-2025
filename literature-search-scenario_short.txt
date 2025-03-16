@@ -1,0 +1,68 @@
+Materials science
+    Heterogeneous powders
+    Hetero-aggregation
+    Fine particles
+    Nanoparticle aggregates
+    Colloidal silica
+    Carbon black
+
+Technologies
+    Digitalization
+    Industry 4.0
+    Sensor technology
+    Catalysis
+    Energy conversion
+    Energy storage
+    E-mobility
+    Battery technology
+    Gas phase synthesis
+    Flame spray pyrolysis
+    Spouted bed processing
+    Jet fluidized beds
+    Electrospray processes
+
+Interdisciplinary research
+    Synergies
+    Hetero aggregations
+    Interparticle interactions
+    Transdisciplinary research
+    Heteroaggregate Formation Dynamics
+    Dispersed Phase-Modeling
+    Simulation
+    Experiments
+    Hybrid modelling
+    CFD-DEM simulation
+    Machine learning methods
+
+Applications
+    Life science
+    Electrochemical applications
+    Conductive battery hetero-aggregates
+    Ion and electron conducting hetero-aggregates
+
+Methods
+    Tailor-made mixtures
+    Application-oriented particle systems
+    Controllable generation and formulation processes
+    Agglomeration
+    High intensity mixing
+    Mechano-fusion
+    2D and 3D structural characterization
+    Image analysis
+    Stochastic modeling
+    Numerical prediction
+    Product-oriented optimisation
+    Fluidized nanoparticles
+    Solid-containing aerosol droplets
+    Bipolar electrospray
+    Process design
+    In situ diagnostics
+    DeepMixing
+    Advanced diagnostics
+    Performance evaluation
+    Customized heteroaggregates
+    Heterogeneously catalysed transient reactions
+    Advective environments
+    Jet-based direct mixing
+    Gas phase aggregation
+    Hetero-aggregation of nanoparticles
