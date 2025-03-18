@@ -3,6 +3,7 @@
 Download the PDF 'URLs-for_AI-in-Research.pdf' - it contains URLs you might need for the workshop.
 
 Glossary:
+
         Training: The process of teaching an AI model using data to improve its performance.
         
         Inference: The process of using a trained AI model to make predictions or generate outputs.
