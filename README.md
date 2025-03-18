@@ -4,10 +4,9 @@ Download the PDF 'URLs-for_AI-in-Research.pdf' - it contains URLs you might need
 
 ## Little AI Glossary for this workshop
 
-1. *Training*: The process of teaching an AI model using data to improve its performance.
-1. *Inference*: The process of using a trained AI model to make predictions or generate outputs.
-        
-        Prompt: An input given to a generative AI model to guide its output or response.
+1. **Training**: The process of teaching an AI model using data to improve its performance.
+1. **Inference**: The process of using a trained AI model to make predictions or generate outputs.
+1. **Prompt**: An input given to a generative AI model to guide its output or response.
         
         System Prompt: A predefined instruction or context given to an AI model to shape its behavior.
         
