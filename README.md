@@ -2,12 +2,6 @@
 ## Material for the workshop 'AI in Research'
 Download the PDF 'URLs-for_AI-in-Research.pdf' - it contains URLs you might need for the workshop.
 
-### Survey 1
-https://uni-bremen.zoom-x.de/survey/_YW4voT4mLoyGOQ7D_Y2NMWWpDM1Nvbl7Uf7RgZoKueAPdnT-u4.VFnVpLr89Cdt0CdA/view?id=diSmX5BBSC2g9bJZeSVIYQ#/sharePreview
-
-### Survey 2
-https://uni-bremen.zoom-x.de/survey/Sz2uSCafmJMm1mgFurxM6yGc-g-kkewtUA9AW1iI7-3S35mV_Qo.UCB1SZX4wvKI7Mz_/view?id=gkZVtGS2T26yhtmYkTC-hQ#/sharePreview
-
 ## Little AI Glossary for this workshop
 
 1. **Training**: The process of teaching an AI model using data to improve its performance.
